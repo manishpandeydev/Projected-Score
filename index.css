@@ -1,0 +1,41 @@
+
+.spanop{
+  border-radius: 4px;
+  width: 100%;
+  margin-bottom: 8px;
+  background-color: white;
+}
+
+.predictor-body{
+  margin: 50px auto;
+  text-align: center;
+  align-items: center;
+
+
+}
+.col{
+  margin-left: 14px;
+}
+.predictor-body:hover{
+  z-index: 1;
+  box-shadow: 10px red;
+}
+.btn{
+ margin: 0 auto;
+}
+
+#myBar {
+  width: 10%;
+  background-color: #04AA6D;
+  text-align: center;
+  padding-left: 0px;
+   /* To center it horizontally (if you want) */
+  line-height: 30px; /* To center it vertically */
+  color: white;
+
+}
+#demo{
+  font-size: 28px;
+  font-weight: bold;
+  margin: 0;
+}
